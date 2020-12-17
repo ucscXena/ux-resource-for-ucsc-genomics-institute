@@ -1,6 +1,6 @@
 # Start here
 
-General resource: [http://ui-patterns.com/](http://ui-patterns.com/). Something of interest
+General resource: [http://ui-patterns.com/](http://ui-patterns.com/). Something of interest. Not sure this is working re:integration with github.
 
 
 
