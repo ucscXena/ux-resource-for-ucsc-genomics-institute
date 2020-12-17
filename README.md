@@ -2,7 +2,7 @@
 
 General resource: [http://ui-patterns.com/](http://ui-patterns.com/). 
 
-
+This is an edit in github!
 
 Other stuff
 
