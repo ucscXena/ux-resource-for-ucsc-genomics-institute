@@ -4,7 +4,7 @@ description: >-
   make yours easy-to-use
 ---
 
-# Be inspired by other tools/applications
+# Check out other tools/applications
 
 Before starting the layout of the user interface or how a user will move through the tool/application it is important to see what else is out there. This is good to do whether starting from scratch or refining/revising a current interface.
 

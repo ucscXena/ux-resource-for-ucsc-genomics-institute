@@ -4,7 +4,7 @@
 
 ## Before starting on the user interface <a id="before-starting-work-on-the-ui"></a>
 
-* [Be inspired by other tools/applications](before-starting-work-on-the-ui/review-similar-tools-tracks.md)
+* [Check out other tools/applications](before-starting-work-on-the-ui/review-similar-tools-tracks.md)
 * [Think about how this tool will fit into a user's larger goals, workflow, skillset](before-starting-work-on-the-ui/think-about-how-this-tool-will-fit-into-a-users-larger-goals-workflow-skillset.md)
 
 ## When designing/refining the UI
