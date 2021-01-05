@@ -17,7 +17,5 @@ mental models
 
 Offload working memory whenever you can! Don't make people remember anything that you can put on the screen
 
-Whitespace conveys grouping
 
-Size of text contrast implies hierarchy
 
