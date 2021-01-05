@@ -1,4 +1,4 @@
-# Consistency within the tool, with other similar tools, and the internet at large
+# Best design practices
 
 Make sure language, labels, etc. are consistent throughout the interface. If you refer to something using a word or phrase in one place, use that word/phrase elsewhere. Same with colors, button designs, etc
 
@@ -10,4 +10,14 @@ Design needs to be usable in the context/space/time in which it needs to be used
 
 Consistency of presentation will make it appear easier to learn and reliability  
 
+
+A design should try to reduce the gap between what the user is used to and the new technology
+
+mental models
+
+Offload working memory whenever you can! Don't make people remember anything that you can put on the screen
+
+Whitespace conveys grouping
+
+Size of text contrast implies hierarchy
 

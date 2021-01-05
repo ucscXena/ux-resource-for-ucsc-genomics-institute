@@ -22,7 +22,8 @@
 
 ## General best practices
 
-* [Consistency within the tool, with other similar tools, and the internet at large](general-best-practices/consistency-within-the-tool-with-other-similar-tools-and-the-internet-at-large.md)
+* [Best design practices](general-best-practices/consistency-within-the-tool-with-other-similar-tools-and-the-internet-at-large.md)
+* [Basic Visual design](general-best-practices/basic-visual-design.md)
 * [Basic accessibility](general-best-practices/basic-accessibility.md)
 
 ---
