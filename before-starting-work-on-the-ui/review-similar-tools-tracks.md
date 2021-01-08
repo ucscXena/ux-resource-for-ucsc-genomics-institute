@@ -6,9 +6,9 @@ description: >-
 
 # Check out other tools/applications
 
-Before starting the layout of the user interface or how a user will move through the tool/application it is important to see what else is out there. This is good to do whether starting from scratch or refining/revising a current interface.
+Before starting the layout of the user interface or how a user will move through the tool/application it is important to see what else is out there. This will help you see see what the conventions other tools are following as well as inspire new interfaces. This is good to do whether starting from scratch or refining/revising a current interface. 
 
-## Three places to look for inspiration
+## Three types of tools to look at
 
 1. Tools/applications that do as close to what you are doing as possible
 2. Tools/applications in your field in general
