@@ -1,29 +1,40 @@
 # Think about the user's context
 
-It is important before beginning to think at least some about the larger picture, especially about the user's context. This will influence your core design decisions, such as 'Does this tool even need a GUI?' 
+It is important before beginning to spend at least some time thinking about the larger picture, especially about the user's context. While it may feel premature, the answers to the questions below will have a big influence on your design decisions, such as 'Does this tool even need a GUI?' 
 
-## Context to consider
+## The most important question
 
-* Who is the user of this tool?
-  * And don't just say 'Everyone!'
+Who is the user of this tool?
 
+And don't just say 'Everyone!'
 
+## More questions to consider
 
-What is the skillset of my users? Do they have experience with the command line? Do they prefer to use R or Python or something else? Do they use Linux?
+Why do they need my tool? What is their short-term goal? What is their medium-term goal? What is their long-term goal?
 
-How will they be using the results from the tool? Will they be publishing using the results? Are there any requirements for publishing? Will they be showing the results to other coworkers? Who are those coworkers? 
+What tools will feed into my tool? What do those outputs look like? What tools will take results from my tool and do further analysis? What do their input requirements look like?
 
-how this tool will fit into a user's larger goals, workflow, skillset
+What is the skillset of my users? Do they have experience with the command line? Do they prefer to use R or Python or something else? Do they use Linux or Mac or Windows?
 
-How does this tool fit into someone's larger goals, motivations? How does it fit into their workflow? Come up with plausible actions/stories that someone might take while using your tool. Use these stories to guide development and define core features.
+What administrative privileges do my users have for the computer my tool will be used on? Will they be able to install the tool themselves or will they need IT to do it for them? Will they only be able to access certain web browsers or web browser versions? Will certain websites be blocked, either by an institution or by the country? 
 
-What do people do now?  ****When do they do it? What values and goals do they have? 
+What are the security requirements for my tool? Does it need to run in a secure environment? What are the security requirements for the data inputs and outputs? 
 
-How are the particular things that you're observing embedded in a larger ecology of artifacts and social networks and broader career and personal and professional goals? 
+Will the user be running this tool on a shared computer or cluster? What requirements will that put on the tool?
 
-Similarities and differences across people?
+Will they be publish using the results from my tool? Are there any requirements for publishing? 
 
-## Talking to potential users
+Will they be showing the results to other coworkers? Who are those coworkers? What skills do they have? 
+
+When are the users going to use my tool? At the beginning or end of a project? How long will it take to run my tool?
+
+Think about the user's social networks, broader career, professional goals, and personal goals. Will they tweet/post about your tool? Are they a far along in their career or just getting started? Will they teach about your tool? Is their home life such that they will need to easily leave and come back to your tool?
+
+## Brainstorming/talking with potential users
+
+Note that what people say and what they do can be wildly different. It is best to stick to questions about a specific instance, such as the last time they ran an RNAseq analysis.
+
+What do people do now that is similar? What does that look like? What do they like/dislike about that?
 
 Look for workarounds and hacks - post it notes, light switch that's taped on, etc
 
@@ -37,13 +48,15 @@ Pay attention to hacks that lead or power users are doing
 
 Caveat: keep in mind that they may not be the true end user
 
-## Putting it into writing
+## Put it into writing
 
-User Stories/Storyboards are a great way to show how the user will be using the tool. They help
+After all your research and thinking, putting what you've learned into writing is key. Specifically writing up plausible actions/stories that someone might take while using your tool will be helpful. It doesn't need to be something big or long. Even a half-page document will:
 
 * cement what you've observed and learned
 * remind yourself of the ultimate goal for the tool
 * remind stakeholders and coworkers of the ultimate goal for the tool
+* guide development
+* help you to define core features and the minimum viable product \(MVP\)
 
 {% embed url="https://www.uxpin.com/studio/ux-design/how-to-write-a-painless-user-story-for-agile-ux-teams/" %}
 
