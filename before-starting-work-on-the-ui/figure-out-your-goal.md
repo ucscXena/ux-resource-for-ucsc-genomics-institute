@@ -1,4 +1,4 @@
-# Figure out your goal
+# Define your goal
 
 After doing need finding, set design goals
 
