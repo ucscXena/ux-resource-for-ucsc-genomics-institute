@@ -6,7 +6,7 @@
 
 * [Check out other tools/applications](before-starting-work-on-the-ui/review-similar-tools-tracks.md)
 * [Think about the user](before-starting-work-on-the-ui/think-about-the-user.md)
-* [Define your goal](before-starting-work-on-the-ui/figure-out-your-goal.md)
+* [Write it out](before-starting-work-on-the-ui/figure-out-your-goal.md)
 
 ## When designing/refining the UI
 
