@@ -38,15 +38,7 @@ Think about the user's social networks, broader career, professional goals, and 
 
 If you have time and access, talking to your users is one of the best ways to understand them. That said it is important to note that what people say and what they do can be wildly different. It is best to stick to questions about a specific instance, such as the last time they ran an RNAseq analysis, rather than asking them more generally what they do.
 
-When asking them about the last time they did an analysis, keep a lookout for workarounds and hacks. These point to places where there is need for improvement. Similarly, when someone makes a mistake or an error, this also can point to places for improvement.
-
-## Put it into writing
-
-
-
-{% embed url="https://www.uxpin.com/studio/ux-design/how-to-write-a-painless-user-story-for-agile-ux-teams/" %}
-
-  
+When asking them about the last time they did an analysis, keep a lookout for workarounds and hacks. These point to places where there is need for improvement. Similarly, when someone makes a mistake or an error, this also can point to places for improvement.  
 
 
 
