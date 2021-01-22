@@ -8,10 +8,10 @@
 * [Think about the user](before-starting-work-on-the-ui/think-about-the-user.md)
 * [Write it out](before-starting-work-on-the-ui/figure-out-your-goal.md)
 
-## When designing/refining the UI
+## During design
 
-* [Do multiple designs](when-designing-refining-the-ui/do-multiple-designs.md)
-* [Make initial designs via cheap methods](when-designing-refining-the-ui/make-initial-designs-via-cheap-methods.md)
+* [Make initial designs via cheap methods](during-design/make-initial-designs-via-cheap-methods.md)
+* [Do multiple designs](during-design/do-multiple-designs.md)
 
 ## Testing a prototype, design, or full fledged UI
 
