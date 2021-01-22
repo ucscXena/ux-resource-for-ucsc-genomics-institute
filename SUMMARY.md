@@ -13,12 +13,11 @@
 * [Make initial designs via cheap methods](during-design/make-initial-designs-via-cheap-methods.md)
 * [Do multiple designs](during-design/do-multiple-designs.md)
 
-## Testing a prototype, design, or full fledged UI
+## Getting feedback
 
-* [You are not the target user](testing-a-prototype-design-or-full-fledged-ui/you-are-not-the-target-user.md)
-* [Run the design by someone when it's still rough](testing-a-prototype-design-or-full-fledged-ui/run-the-design-by-someone-when-its-still-rough.md)
-* [How to show someone your design](testing-a-prototype-design-or-full-fledged-ui/how-to-show-someone-your-design.md)
-* [How to sort through feedback](testing-a-prototype-design-or-full-fledged-ui/how-to-sort-through-feedback.md)
+* [Why and when to get feedback](getting-feedback/why-and-when-to-get-feedback.md)
+* [How to show someone your design](getting-feedback/how-to-show-someone-your-design.md)
+* [How to sort through feedback](getting-feedback/how-to-sort-through-feedback.md)
 
 ## General best practices
 
