@@ -4,7 +4,7 @@ description: >-
   meets user needs
 ---
 
-# Why and when to get feedback
+# Why should you get feedback
 
 ## Remember: you are not the target user.
 
@@ -25,10 +25,4 @@ Industry rules is 3-5, but in practice, even one person will **significantly** h
 ![](../.gitbook/assets/screen-shot-2021-01-22-at-2.24.37-pm.png)
 
 {% embed url="https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/" %}
-
-## When should you run it by someone?
-
-Ideally early and often. Interestingly, you can often get the best feedback from users when your designs are the roughest \(paper and pencil, slides, etc\), because users feel more free to give frank feedback because they know you haven't invested so much time in it that you can't pivot to something else.
-
-That said, even running it by someone only once during the design of a tool is good.
 

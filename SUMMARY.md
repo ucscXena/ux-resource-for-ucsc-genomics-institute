@@ -15,8 +15,9 @@
 
 ## Getting feedback
 
-* [Why and when to get feedback](getting-feedback/why-and-when-to-get-feedback.md)
-* [How to show someone your design](getting-feedback/how-to-show-someone-your-design.md)
+* [Why should you get feedback](getting-feedback/why-should-you-get-feedback.md)
+* [When should you get feedback](getting-feedback/when-should-you-get-feedback.md)
+* [How to get feedback](getting-feedback/how-to-get-feedback.md)
 * [How to sort through feedback](getting-feedback/how-to-sort-through-feedback.md)
 
 ## General best practices

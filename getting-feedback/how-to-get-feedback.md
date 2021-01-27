@@ -1,4 +1,4 @@
-# How to show someone your design
+# How to get feedback
 
 * Don't ask leading questions. 
 * Don't suggest actions. Just watch them. You will bias them
