@@ -1,27 +1,25 @@
 # Basic accessibility
 
-color blindness colors/options, alt tags for the blind
+Access to the web is a basic human right, meaning that anyone should be able to use and access sites on the web such as those we are building. There are common, low-hanging things you can do to make your website accessible:
 
-Access to the web is a basic human right, meaning that anyone should be able to use and access sites on the web. There are common, low-hanging things you can do to make your website accessible:
+* Use a color-blind friendly color palette (or have options to enable a color-blind friendly mode). If you have access to people in your group that are colorblind, they may be a good litmus test for how colorblind-friendly your color palettes are.
+* Have alt-text on images to that those using screen readers, like the blind, will have images described to them
 
-* Color-blind friendly color palettes, or options to enable a color-blind friendly mode
-* Alt-text on images to that the blind can have images described to them
+It's good to keep these things in mind from the beginning as it means you can hopefully avoid having to go back and make massive changes later after discovering something is completely unusable for a certain group.
 
-If you have access to people in your group that are colorblind, they may be a good litmus test for colors.
+## More Resources
 
-Good to keep these things in mind from the beginning as it means you can avoid having to make massive changes later after discovering something
+The two points above are just the tip of the iceberg in terms of accessibility and there are many more things you can do to make your web application as accessible as possible. Here are some more resources where you can learn more about web accessibility guidelines:
 
-Short and simple overview from Mozilla: [https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding\_WCAG](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG)
+* Mozilla's short and simple overview: [Understanding the Web Content Accessibility Guidelines](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG)
+* A longer overview from W3C: [Accessibility](https://www.w3.org/standards/webdesign/accessibility)
 
-Slightly longer overview from W3: [https://www.w3.org/standards/webdesign/accessibility](https://www.w3.org/standards/webdesign/accessibility)
+Here are some tools you can use to check basic accessibility and find low-hanging issues:
+* [Check for basic accessibility issues](https://wave.webaim.org/)
+* [Apply colorblind filters to your site](https://www.toptal.com/designers/colorfilter/)
+* Tools for choosing color-palettes that have options for showing your palette under a few different colorblind types: 
+  * [Coolors](https://coolors.co/)
+  * [Paletton](https://paletton.com/)
 
-A Medium post that goes into a bit more detail: [https://medium.com/@krisrivenburgh/the-ada-checklist-website-compliance-guidelines-for-2019-in-plain-english-123c1d58fad9](https://medium.com/@krisrivenburgh/the-ada-checklist-website-compliance-guidelines-for-2019-in-plain-english-123c1d58fad9)
-
-Seems to be a pretty solid tool for higlighting low-hanging accessibility issues on websites: [https://wave.webaim.org/](https://wave.webaim.org/)
-
-Online tool for visualizing your webpage under a few different color-blind situations: [https://www.toptal.com/designers/colorfilter/](https://www.toptal.com/designers/colorfilter/)
-
-Tools for choosing color-palettes that have options for showing your palette under a few different colorblind types: [https://coolors.co/](https://coolors.co/), [https://paletton.com/](https://paletton.com/)
-
-While not definitive, interesting stackoverflow question about accessibility of command line tools: [https://stackoverflow.com/questions/59945753/what-are-the-accessibility-a11y-guidelines-for-command-line-applications](https://stackoverflow.com/questions/59945753/what-are-the-accessibility-a11y-guidelines-for-command-line-applications)
+Most of this page is about making websites accessible. While command-line tools are generally accessible (plain text and don't depend heavily on colors), there are some things to avoid that are detailed in [this Stackoverflow thread](https://stackoverflow.com/questions/59945753/what-are-the-accessibility-a11y-guidelines-for-command-line-applications).
 
