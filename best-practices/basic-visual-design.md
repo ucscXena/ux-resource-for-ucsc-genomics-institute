@@ -1,4 +1,4 @@
-# Basic Visual design
+# Basic visual design
 
 ## Goals of Visual Design
 

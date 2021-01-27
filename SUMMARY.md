@@ -2,11 +2,11 @@
 
 * [Overview](README.md)
 
-## Before starting on the user interface <a id="before-starting-work-on-the-ui"></a>
+## Before starting
 
-* [Check out other tools/applications](before-starting-work-on-the-ui/review-similar-tools-tracks.md)
-* [Think about the user](before-starting-work-on-the-ui/think-about-the-user.md)
-* [Write it out](before-starting-work-on-the-ui/figure-out-your-goal.md)
+* [Check out other tools](before-starting/check-out-other-tools.md)
+* [Think about the user](before-starting/think-about-the-user.md)
+* [Write it out](before-starting/write-it-out.md)
 
 ## During design
 
@@ -20,11 +20,11 @@
 * [How to get feedback](getting-feedback/how-to-get-feedback.md)
 * [How to sort through feedback](getting-feedback/how-to-sort-through-feedback.md)
 
-## General best practices
+## best practices
 
-* [Best design practices](general-best-practices/consistency-within-the-tool-with-other-similar-tools-and-the-internet-at-large.md)
-* [Basic Visual design](general-best-practices/basic-visual-design.md)
-* [Basic accessibility](general-best-practices/basic-accessibility.md)
+* [Best general design](best-practices/best-general-design.md)
+* [Basic visual design](best-practices/basic-visual-design.md)
+* [Basic accessibility](best-practices/basic-accessibility.md)
 
 ---
 
