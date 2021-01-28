@@ -22,5 +22,5 @@ Here are some tools you can use to check basic accessibility and find low-hangin
   * [Coolors](https://coolors.co/)
   * [Paletton](https://paletton.com/)
 
-Most of this page is about making websites accessible. While command-line tools are generally accessible \(plain text and don't depend heavily on colors\), there are some things to avoid that are detailed in [this Stackoverflow thread](https://stackoverflow.com/questions/59945753/what-are-the-accessibility-a11y-guidelines-for-command-line-applications).
+Most of this page is about making websites accessible. While command-line tools are generally accessible \(plain text and don't depend heavily on colors\), there are some things to avoid that are detailed in [this Stackoverflow thread](https://stackoverflow.com/questions/59945753/what-are-the-accessibility-a11y-guidelines-for-command-line-applications). In short, avoid only encoding important information via color and avoid ASCII art as it can interfere with screen readers. 
 
