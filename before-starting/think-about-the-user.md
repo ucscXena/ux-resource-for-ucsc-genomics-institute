@@ -36,9 +36,9 @@ Think about the user's social networks, broader career, professional goals, and 
 
 ## Brainstorming/talking with potential users
 
-If you have time and access, talking to your users is one of the best ways to understand them. That said it is important to note that what people say and what they do can be wildly different. It is best to stick to questions about a specific instance, such as the last time they ran an RNAseq analysis, rather than asking them more generally what they do.
+If you have time and access, talking to your users is one of the best ways to understand them. That said it is important to note that what people say and what they do can be wildly different. It is best to stick to questions about a specific instance, such as the last time they ran an RNAseq analysis, rather than asking them more generally what they do. Ask them what went well and what was difficult for them.
 
-When asking them about the last time they did an analysis, keep a lookout for workarounds and hacks. These point to places where there is need for improvement. Similarly, when someone makes a mistake or an error, this also can point to places for improvement.  
+When asking them about the last time they did an analysis, keep a lookout for workarounds and hacks. These point to places where there is need for improvement. Similarly, when someone makes a mistake or an error, this also can point to places for improvement.   
 
 
 
