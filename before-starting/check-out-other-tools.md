@@ -18,7 +18,9 @@ The first group will help you brainstorm ideas from what other people have done,
 
 ## Places to look for inspiration outside of biology
 
-[https://skillcrush.com/blog/best-ux-design-inspiration-online/](https://skillcrush.com/blog/best-ux-design-inspiration-online/)
+{% embed url="https://skillcrush.com/blog/best-ux-design-inspiration-online/" %}
+
+
 
 
 
