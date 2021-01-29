@@ -15,7 +15,7 @@ There are **three** goals for visual design
 * Whitespace conveys grouping
 * Size of text contrast implies hierarchy
 
-### Readability
+### Typography
 
 * If you're doing something that people will read, pick a common typeface that folks are familiar with
 * Left-aligned is easier to read
