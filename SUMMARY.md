@@ -15,9 +15,8 @@
 
 ## Getting feedback
 
-* [Why should you get feedback](getting-feedback/why-should-you-get-feedback.md)
-* [When should you get feedback](getting-feedback/when-should-you-get-feedback.md)
-* [How to get feedback](getting-feedback/how-to-get-feedback.md)
+* [Planning feedback](getting-feedback/planning-feedback.md)
+* [How to talk to users](getting-feedback/how-to-talk-to-users.md)
 * [How to sort through feedback](getting-feedback/how-to-sort-through-feedback.md)
 
 ## best practices
