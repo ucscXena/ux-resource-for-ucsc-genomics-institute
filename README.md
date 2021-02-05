@@ -24,3 +24,5 @@ How to measure success of your UX work: [https://disciullodesign.wordpress.com/2
 
 Surveys: [https://stripe.com/atlas/guides/survey-design-principles](https://stripe.com/atlas/guides/survey-design-principles)
 
+[https://www.interaction-design.org/literature/article/user-research-what-it-is-and-why-you-should-do-it](https://www.interaction-design.org/literature/article/user-research-what-it-is-and-why-you-should-do-it)
+
