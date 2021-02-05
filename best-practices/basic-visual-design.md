@@ -10,7 +10,7 @@ There are **three** goals for visual design
 
 ### Conveying Relationships
 
-* Whitespace can be used to convey groupings. Things closer together (i.e. with less whitespace between them) are percieved as related.
+* Whitespace can be used to convey groupings. Things closer together \(i.e. with less whitespace between them\) are percieved as related.
 * The contrast between sizes of text implies a hierarchy. Use large/bold text for titles, slighter smaller text for subsections, and even smaller text for the body. 
 
 ### Typography
@@ -39,9 +39,12 @@ There are **three** goals for visual design
 ### Links
 
 How to make better informational links:
+
 * Make the link text a long, muti-word phrase \(this will help with accessibility too since readers will read out whole link\). Avoid links that are just the word "here".
 * Use **trigger words**, not 'clever' terms. These are commonly known words. Also use words that your user will know, not what words the design team wants to use  
-In general though, follow the example of other similar sites
+
+  In general though, follow the example of other similar sites
+
 * Understand [information scent](https://www.nngroup.com/articles/information-scent/). When looking for information, people will skim pages looking for key words related to what they are searching for. If a page doesn't seem immediately relevant, people will leave the page and look on other pages -- even if the current page may actually contain all of the information they're looking for. Many people surf the web the skimming pages looking for words
 
 ## Other Advice
