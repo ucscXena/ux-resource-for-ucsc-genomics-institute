@@ -1,42 +1,34 @@
 # Basic visual design
 
-## Goals of Visual Design
-
-There are **three** goals for visual design
-
-1. **Guide people**: convey structure, relative importance and relationships
-2. **Pace the interaction**: draw people in, help orient, provide hooks for diving deeper
-3. **Express the message**: tell the story, breathe life into the content  
-
-### Conveying Relationships
+## Conveying Relationships
 
 * Whitespace can be used to convey groupings. Things closer together \(i.e. with less whitespace between them\) are percieved as related.
 * The contrast between sizes of text implies a hierarchy. Use large/bold text for titles, slighter smaller text for subsections, and even smaller text for the body. 
 
-### Typography
+## Typography
 
 * For something that people will need to read, pick a common, familiar typeface.
 * Left-aligned text is easier to read.
 
-### Icons
+## Icons
 
 * Generic icons rarely help - make them specific
 * Icons are good when they show what they represent, either to help me the first time or the second time when i return
 * Icons are also good as redundant coding
 
-### Use of Color
+## Use of Color
 
 * Fewer colors is better. If you use color, do so sparingly but effectively - think about why you're using color.
 * If you're doing a logo or something extraordinary, pick something uncommon to make you stick out.
 
-### Patterns
+## Patterns
 
 * We automatically notice patterns and deviations from them. Use patterns when you want to convey consistency, and deviate when you intentionally want to distinguish that content.
 * Using alignment well helps guide your eye and reduce clutter
 * Avoid slight misalignments, because they undermine your ability to beacon the organization.
 * If you put your navigation where a similar site puts their navigation that will help users get used to yours
 
-### Links
+## Links
 
 How to make better informational links:
 
