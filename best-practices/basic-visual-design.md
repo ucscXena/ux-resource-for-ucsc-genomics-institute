@@ -33,7 +33,7 @@
 How to make better informational links:
 
 * Make the link text a long, muti-word phrase \(this will help with accessibility too since readers will read out whole link\). Avoid links that are just the word "here".
-* Use **trigger words**, not 'clever' terms. These are commonly known words. Also use words that your user will know, not what words the design team wants to use  
+* Use **trigger words**, not 'clever' terms. These are commonly known words. Also use words that your user will know, not what words the design team wants to use
 
   In general though, follow the example of other similar sites
 

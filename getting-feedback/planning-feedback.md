@@ -4,9 +4,9 @@ description: >-
   meets user needs
 ---
 
-# Planning feedback
+# Who, when, why of feedback
 
-## Remember: you are not the target user.
+## Why get feedback: you are not the target user.
 
 In virtually all cases, you are not the target user for your tool. Your target user will have a different skillset, different goals, etc. This means that what seems obvious for you may be difficult for your users. Alternatively, something that you worry will be complicated will actually be quite easy for them.
 

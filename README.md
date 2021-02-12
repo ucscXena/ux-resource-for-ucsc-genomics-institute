@@ -18,11 +18,15 @@ Components of UX:
 
 {% embed url="http://ui-patterns.com/" %}
 
+## GI-specific resources
+
+\#user-centered-design Slack Channel on the UCSC GI slack.
+
 ## Other resources
 
 How to measure success of your UX work: [https://disciullodesign.wordpress.com/2013/12/08/6-steps-for-measuring-success-on-ux-projects](https://disciullodesign.wordpress.com/2013/12/08/6-steps-for-measuring-success-on-ux-projects/)
 
-Surveys: [https://stripe.com/atlas/guides/survey-design-principles](https://stripe.com/atlas/guides/survey-design-principles)
 
-[https://www.interaction-design.org/literature/article/user-research-what-it-is-and-why-you-should-do-it](https://www.interaction-design.org/literature/article/user-research-what-it-is-and-why-you-should-do-it)
+
+
 

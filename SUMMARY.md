@@ -15,7 +15,7 @@
 
 ## Getting feedback
 
-* [Planning feedback](getting-feedback/planning-feedback.md)
+* [Who, when, why of feedback](getting-feedback/planning-feedback.md)
 * [Surveys](getting-feedback/surveys.md)
 * [How to talk to users](getting-feedback/how-to-talk-to-users.md)
 * [How to sort through feedback](getting-feedback/how-to-sort-through-feedback.md)
