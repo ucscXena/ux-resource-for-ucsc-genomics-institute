@@ -10,7 +10,7 @@
 
 ## During design
 
-* [Make initial designs via cheap methods](during-design/make-initial-designs-via-cheap-methods.md)
+* [How to make your designs](during-design/make-initial-designs-via-cheap-methods.md)
 * [Do multiple designs](during-design/do-multiple-designs.md)
 
 ## Getting feedback
