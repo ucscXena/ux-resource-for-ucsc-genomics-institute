@@ -16,8 +16,8 @@
 ## Getting feedback
 
 * [Who, when, why of feedback](getting-feedback/planning-feedback.md)
-* [Surveys](getting-feedback/surveys.md)
-* [How to talk to users](getting-feedback/how-to-talk-to-users.md)
+* [How to talk to users directly](getting-feedback/how-to-talk-to-users.md)
+* [How to do a surveys](getting-feedback/how-to-do-surveys.md)
 * [How to sort through feedback](getting-feedback/how-to-sort-through-feedback.md)
 
 ## best practices

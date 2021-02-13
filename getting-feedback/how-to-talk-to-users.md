@@ -2,7 +2,7 @@
 description: How to talk to users to get the most out of them
 ---
 
-# How to talk to users
+# How to talk to users directly
 
 The most important things to remember when talking to users is:
 
@@ -23,7 +23,7 @@ It is very difficult to both talk to a user and to take notes on what they are s
 
 3.  **Note the language and terminology they use** when talking about the data, tool, etc. Developers often have different words for data and concepts than the users of a tool. For instance, developers might call it metadata, while users call it clinical data. Note the terminology they use so that you can use it in your designs.
 
-## Showing them a design
+## How to show them a design
 
 Showing users a design is one of the most fruitful exercises you can do. Watching them use the tool can give you important feedback on not only minor things such as colors, button placement, etc, but also on big things like their thought process and their expectations about flow through the tool.
 
