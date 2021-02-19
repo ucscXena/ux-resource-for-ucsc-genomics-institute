@@ -1,4 +1,6 @@
-# Basic visual design
+# The Basics of Visual Design
+
+Visual design is a complex topic. It pulls from a long history of studies of human psychology, sociology, and human computer interaction. However, it's not necessary to dive deep into topic to be able to take advantage of some these results. In combination with the [Goals of Visual Design](goals-of-visual-design.md), below are some visual design basics to keep in mind while designing your website.
 
 ## Conveying Relationships
 
@@ -12,13 +14,13 @@
 
 ## Icons
 
-* Generic icons rarely help - make them specific
-* Icons are good when they show what they represent, either to help me the first time or the second time when i return
-* Icons are also good as redundant coding
+* Avoid generic icons, they rarely help. Make them specific.
+* Good icons show what they represent, either to help me the first time or the second time when I return.
+* Good icons can also be used redundant coding. If an icon and text are used together, someone might not understand the text but may understand the icon.  
 
 ## Use of Color
 
-* Fewer colors is better. If you use color, do so sparingly but effectively - think about why you're using color.
+* Use color sparingly but effectively - think about why you're using color and what you are trying to tell the user with that color.
 * If you're doing a logo or something extraordinary, pick something uncommon to make you stick out.
 
 ## Patterns
@@ -33,15 +35,19 @@
 How to make better informational links:
 
 * Make the link text a long, muti-word phrase \(this will help with accessibility too since readers will read out whole link\). Avoid links that are just the word "here".
-* Use **trigger words**, not 'clever' terms. These are commonly known words. Also use words that your user will know, not what words the design team wants to use
-
-  In general though, follow the example of other similar sites
-
-* Understand [information scent](https://www.nngroup.com/articles/information-scent/). When looking for information, people will skim pages looking for key words related to what they are searching for. If a page doesn't seem immediately relevant, people will leave the page and look on other pages -- even if the current page may actually contain all of the information they're looking for. Many people surf the web the skimming pages looking for words
+* Use **trigger words**, not 'clever' terms. These are commonly known words. Also use words that your user will know, not what words the design team wants to use.
+* Understand [information scent](https://www.nngroup.com/articles/information-scent/). When looking for information, people will skim pages looking for key words related to what they are searching for. If a page doesn't seem immediately relevant, people will leave to look elsewhere -- even if the current page may actually contain all of the information they're looking for. 
 
 ## Other Advice
 
 * Put the most important things above the fold
 * Studies do show that users are happy to scroll if they think they'll be rewarded
 * People don't read on the web! People often have a number of tabs open simultaneously. Are even doing unrelated tasks at the same time! So make text scannable - shorter is better, use bullet lists, don't use market-ese
+* In general though, follow the example of other similar sites that you think are designed well. 
 
+
+## Further reading:
+
+{% embed url="https://www.smashingmagazine.com/2008/01/10-principles-of-effective-web-design/" %}
+{% embed url="https://www.toptal.com/designers/ui/principles-of-design" %}
+{% embed url="https://xd.adobe.com/ideas/principles/web-design/web-page-design/" %}
