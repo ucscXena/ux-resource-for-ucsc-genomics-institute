@@ -1,6 +1,6 @@
-# The Basics of Visual Design
+# Basic visual design
 
-Visual design is a complex topic. It pulls from a long history of studies of human psychology, sociology, and human computer interaction. However, it's not necessary to dive deep into topic to be able to take advantage of some these results. In combination with the [Goals of Visual Design](goals-of-visual-design.md), below are some visual design basics to keep in mind while designing your website.
+Visual design is a complex topic. It pulls from a long history of studies of human psychology, sociology, and human computer interaction. However, it's not necessary to dive deep into topic to be able to take advantage of some these results. In combination with the [Goals of Visual Design](https://github.com/maryjgoldman/ux-resource-for-ucsc-genomics-institute/tree/663b12ad45248e1ec46d14d8943f3d89e725a95a/best-practices/goals-of-visual-design.md), below are some visual design basics to keep in mind while designing your website.
 
 ## Conveying Relationships
 
@@ -45,9 +45,11 @@ How to make better informational links:
 * People don't read on the web! People often have a number of tabs open simultaneously. Are even doing unrelated tasks at the same time! So make text scannable - shorter is better, use bullet lists, don't use market-ese
 * In general though, follow the example of other similar sites that you think are designed well. 
 
-
 ## Further reading:
 
-{% embed url="https://www.smashingmagazine.com/2008/01/10-principles-of-effective-web-design/" %}
-{% embed url="https://www.toptal.com/designers/ui/principles-of-design" %}
-{% embed url="https://xd.adobe.com/ideas/principles/web-design/web-page-design/" %}
+{% embed url="https://www.smashingmagazine.com/2008/01/10-principles-of-effective-web-design/" caption="" %}
+
+{% embed url="https://www.toptal.com/designers/ui/principles-of-design" caption="" %}
+
+{% embed url="https://xd.adobe.com/ideas/principles/web-design/web-page-design/" caption="" %}
+

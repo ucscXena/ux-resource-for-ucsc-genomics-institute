@@ -14,7 +14,15 @@ Before starting the layout of the user interface or how a user will move through
 2. Tools/applications in your field in general
 3. Tools/applications outside of genomics/biology/etc
 
-The first group will help you brainstorm ideas from what other people have done, and also see what improvements you can make on competitors in the field. The second will help you understand general paradigms and conventions in the field \(e.g. introns being represented as lines and exons as boxes\). The final group will help you think outside the box and find novel ways of guiding users and presenting information.
+The first group will help you brainstorm ideas from what other people have done, and also see what improvements you can make on competitors in the field. 
+
+The second will help you understand general paradigms and conventions in the field \(e.g. introns being represented as lines and exons as boxes\). It is important to mimic these norms as much as possible, unless there is a specific reason you wish to deviate. 
+
+The final group will help you think outside the box and find novel ways of guiding users and presenting information.
+
+### What if your tool is completely unique?
+
+If your tool is truly unique it is even more important to mimic as much as possible any other tool that might be even slightly related. A design should try to reduce the gap between what the user is used to and the new technology.
 
 ## Places to look for inspiration outside of biology
 
