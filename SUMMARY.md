@@ -24,6 +24,7 @@
 * [Best general design](best-practices/best-general-design.md)
 * [Basic visual design](best-practices/basic-visual-design.md)
 * [Basic accessibility](best-practices/basic-accessibility.md)
+* [Mental Models](best-practices/mental-models.md)
 
 ---
 
