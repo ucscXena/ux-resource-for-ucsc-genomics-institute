@@ -54,7 +54,7 @@ Consistency is key. If your website behaves in a way consistent with itself (and
 
 Consistency isn't just about behavior, but it's also about language, labels, colors, button designs. It's really everything. If you use a word to refer to an interection in one place, use that same word elsewhere. 
 
-[Read more](https://uxdesign.cc/design-principle-consistency-6b0cf7e7339f)
+{% embed url="https://uxdesign.cc/design-principle-consistency-6b0cf7e7339f" caption="" %}
 
 ## Other Advice
 
