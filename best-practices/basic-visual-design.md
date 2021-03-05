@@ -1,6 +1,16 @@
-# Basic visual design
+# Basic Design Principles
 
-Visual design is a complex topic. It pulls from a long history of studies of human psychology, sociology, and human computer interaction. However, it's not necessary to dive deep into topic to be able to take advantage of some these results. In combination with the [Goals of Visual Design](https://github.com/maryjgoldman/ux-resource-for-ucsc-genomics-institute/tree/663b12ad45248e1ec46d14d8943f3d89e725a95a/best-practices/goals-of-visual-design.md), below are some visual design basics to keep in mind while designing your website.
+Design is a complex topic. It pulls from a long history of studies of human psychology, sociology, and human computer interaction. However, it's not necessary to dive deep into topic to be able to take advantage of some these results. 
+
+## Goals of Design
+
+There are **three** goals for design
+
+1. **Guide people**: convey structure, relative importance and relationships
+2. **Pace the interaction**: draw people in, help orient, provide hooks for diving deeper
+3. **Express the message**: tell the story, breathe life into the content  
+
+Keep these goals in mind as you create your tools. As you read through the advice in the sections below, think about you can tie them into the design goals.
 
 ## Conveying Relationships
 
@@ -37,6 +47,14 @@ How to make better informational links:
 * Make the link text a long, muti-word phrase \(this will help with accessibility too since readers will read out whole link\). Avoid links that are just the word "here".
 * Use **trigger words**, not 'clever' terms. These are commonly known words. Also use words that your user will know, not what words the design team wants to use.
 * Understand [information scent](https://www.nngroup.com/articles/information-scent/). When looking for information, people will skim pages looking for key words related to what they are searching for. If a page doesn't seem immediately relevant, people will leave to look elsewhere -- even if the current page may actually contain all of the information they're looking for. 
+
+## Be Consistent
+
+Consistency is key. If your website behaves in a way consistent with itself (and with things they've seen before) it can help offload the difficult task of understanding how to interact with a tool. If every new page is completely different from the last, the user has to actively think about how to use every page, slowing them down. This consistency can also make your site appear easier to learn, as it will draw on interactions the user already knows. 
+
+Consistency isn't just about behavior, but it's also about language, labels, colors, button designs. It's really everything. If you use a word to refer to an interection in one place, use that same word elsewhere. 
+
+[Read more](https://uxdesign.cc/design-principle-consistency-6b0cf7e7339f)
 
 ## Other Advice
 
