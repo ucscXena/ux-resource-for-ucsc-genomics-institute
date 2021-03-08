@@ -1,6 +1,6 @@
-# Basic Visual Design Principles
+# Basic visual design
 
-Visual design is a complex topic. It pulls from a long history of studies of human psychology, sociology, and human computer interaction. However, it's not necessary to dive deep into topic to be able to take advantage of some these results. 
+Visual design is a complex topic. It pulls from a long history of studies of human psychology, sociology, and human computer interaction. However, it's not necessary to dive deep into topic to be able to take advantage of some these results.
 
 ## Goals of Visual Design
 
