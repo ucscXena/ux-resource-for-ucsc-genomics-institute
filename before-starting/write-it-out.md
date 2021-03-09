@@ -8,7 +8,7 @@ After looking at other tools and thinking about your user, putting what you've l
 
 * cement what you've observed and learned
 * remind yourself of the ultimate goal for the tool
-* remind stakeholders and coworkers of the ultimate goal for the tool
+* remind PIs, coworkers, etc of the ultimate goal for the tool
 * guide development
 * help you to define core features and the minimum viable product \(MVP\)
 

@@ -1,8 +1,12 @@
+---
+description: Knowing who will use your tool will help the tool be easy-to-use
+---
+
 # Think about the user
 
-It is important before beginning to spend some time thinking about the user and the context under which they'll be using your tool. Spending even a short time doing this now will save you development time, especially since you may realize that you only need something simple, or that adding one small feature will satisfy your user's needs. 
+Before beginning, it is important to spend some time thinking about the user and the context under which they'll be using your tool. Spending even a short time doing this now will save you development time, especially since you may realize that your final tool can be quite simple, or that adding one small feature, like a new API call, will satisfy your user's needs. 
 
-Below is a list of questions to help you start thinking about this. Note this list is not exhaustive.
+Below is a list of questions to help you start thinking about this.
 
 ## The most important question
 
@@ -10,7 +14,9 @@ Below is a list of questions to help you start thinking about this. Note this li
 
 And don't just say 'Everyone!' The more specific your answer is, the easier it will be for you to create a design that really works for them. 
 
-Sometimes we really are designing a tool for more than one type of user. In this case, list out who each of your users are. Then pick one, or at most two, types of users who you are going to focus on for this round. Add more users you will support as you continue to develop your tool. The good thing about focusing on just a few users is that you will serve some users really well and you are likely to be able to serve your other users decently. It is better to get a user base of just a few types of users and grow, rather than have no user base since you didn't meet the needs of any of your users well enough to hook them into using your tool.
+Sometimes we really are designing a tool for more than one type of user. In this case, list out who each of your users are. Then pick one, or at most two, types of users who you are going to focus on for this round of design. Add more users you will support as you continue to develop your tool. 
+
+Focusing on just a few users will ensure you will serve some users really well and you are likely to be able to serve your other users decently. It is better to have a small but solid user base, rather than have no user base since you didn't meet the needs of any of your users well enough to hook them into using your tool.
 
 ## Questions to consider
 

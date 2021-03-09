@@ -18,7 +18,7 @@ Components of UX:
 
 {% embed url="http://ui-patterns.com/" %}
 
-## GI-specific resources
+## UCSC GI-specific resources
 
 \#user-centered-design Slack Channel on the UCSC GI slack.
 

@@ -4,13 +4,13 @@
 
 ## Before starting
 
-* [Check out other tools](before-starting/check-out-other-tools.md)
 * [Think about the user](before-starting/think-about-the-user.md)
+* [Review other tools](before-starting/review-other-tools.md)
 * [Write it out](before-starting/write-it-out.md)
 
 ## During design
 
-* [Creating your designs](during-design/make-initial-designs-via-cheap-methods.md)
+* [Create your designs](during-design/create-your-designs.md)
 
 ## Getting feedback
 

@@ -1,8 +1,12 @@
+---
+description: You've gotten a lot of feedback ... now what?
+---
+
 # How to sort through feedback
 
 You will likely get a lot of feedback after talking with users. Some of it may even not be relevant to the issue you are looking to solve. Deciding what to do from the feedback can take some work. 
 
-Write down all feedback, even feedback that is out of scope. You may decide to come back later in the future to something and having this initial feedback will be helpful
+Write down all feedback, even feedback that is out of scope. You may decide to come back later in the future to something and having this initial feedback will be helpful.
 
 Weigh carefully how important a design change or element is to the user. Even if the change will be difficult to implement, it may be worth it. Conversely, something that is not very important to users but is easy to implement may also be worth doing.
 
