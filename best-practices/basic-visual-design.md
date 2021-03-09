@@ -12,54 +12,54 @@ There are **three** goals for visual design
 
 Keep these goals in mind as you create your tools. As you read through the advice in the sections below, think about you can tie them into the design goals.
 
-## Conveying Relationships
+{% hint style="info" %}
+Good rule of thumb: follow the example of other similar sites that you think are designed well. 
+{% endhint %}
 
-* Whitespace can be used to convey groupings. Things closer together \(i.e. with less whitespace between them\) are percieved as related.
+## Page layout
+
+* Put the most important things "above the fold"
+* That said, studies do show that users are happy to scroll if they think they'll be rewarded, so don't worry if important information is 'below the fold'
+
+{% embed url="https://www.optimizely.com/optimization-glossary/above-the-fold/" %}
+
+## Convey Relationships with whitespace and font
+
+* Use whitespace convey groupings. Things closer together \(i.e. with less whitespace between them\) are perceived as being related.
+* Add whitespace to help create groups of items or text
 * The contrast between sizes of text implies a hierarchy. Use large/bold text for titles, slighter smaller text for subsections, and even smaller text for the body. 
 
 ## Typography
 
-* For something that people will need to read, pick a common, familiar typeface.
-* Left-aligned text is easier to read.
+* Pick a common, familiar typeface unless there is a strong reason to do otherwise. Especially if there is a lot of text for the user to read, your user will be significantly slowed by uncommon typographies.
+* Left-aligned text is proven to be easier to read. Do not use any other alignment unless there is a strong reason to do otherwise.
+* In general, people don't read on the web. People often have a number of tabs open simultaneously and are even doing unrelated tasks at the same time. Make any and all text scannable: 
+  * shorter is better
+  * use bullet lists
+  * don't use market-ese - people will not trust your tool
 
 ## Icons
 
-* Avoid generic icons, they rarely help. Make them specific.
-* Good icons show what they represent, either to help me the first time or the second time when I return.
-* Good icons can also be used redundant coding. If an icon and text are used together, someone might not understand the text but may understand the icon.  
+It is tempting to only use icons since they take up less space than text, but icons can often confuse users since they may not recognize your icon or may not understand what a common icon does in the context of your tool.
+
+* Avoid generic icons except where the icon is exactly what you are doing, such as a PDF icon to generate and download a PDF of the screen. In general, the more specific your icon is, the better.
+* Good icons show what they represent, either to help the user recognize what the icon does the the first time or the second time when I return.
+* Use both icons and text together, such as a magnifying glass and the word 'search'. This helps users who may only read and users who are looking for familiar icons 
 
 ## Use of Color
 
 * Use color sparingly but effectively - think about why you're using color and what you are trying to tell the user with that color.
-* If you're doing a logo or something extraordinary, pick something uncommon to make you stick out.
+* If you're making a logo or something extraordinary, pick something uncommon to make you stick out.
 
-## Patterns
+## Alignment
 
 * We automatically notice patterns and deviations from them. Use patterns when you want to convey consistency, and deviate when you intentionally want to distinguish that content.
-* Using alignment well helps guide your eye and reduce clutter
-* Avoid slight misalignments, because they undermine your ability to beacon the organization.
-* If you put your navigation where a similar site puts their navigation that will help users get used to yours
+* Align text, images, divs, etc to guide the eye and reduce clutter
+* Slight misalignments, though small, undermine the user's confidence in your tool and make it seem less trustworthy
 
-## Links
-
-How to make better informational links:
+## Making better Links
 
 * Make the link text a long, muti-word phrase \(this will help with accessibility too since readers will read out whole link\). Avoid links that are just the word "here".
-* Use **trigger words**, not 'clever' terms. These are commonly known words. Also use words that your user will know, not what words the design team wants to use.
+* Use **trigger words**, not 'clever' terms. These are commonly known words that users will instantly recognize. Note that you should always use words the user uses, not the words that the tool maker uses. For example, the user may call the data 'clinical data' though the tool maker calls it 'metadata'.
 * Understand [information scent](https://www.nngroup.com/articles/information-scent/). When looking for information, people will skim pages looking for key words related to what they are searching for. If a page doesn't seem immediately relevant, people will leave to look elsewhere -- even if the current page may actually contain all of the information they're looking for. 
-
-## Other Advice
-
-* Put the most important things above the fold
-* Studies do show that users are happy to scroll if they think they'll be rewarded
-* People don't read on the web! People often have a number of tabs open simultaneously. Are even doing unrelated tasks at the same time! So make text scannable - shorter is better, use bullet lists, don't use market-ese
-* In general though, follow the example of other similar sites that you think are designed well. 
-
-## Further reading:
-
-{% embed url="https://www.smashingmagazine.com/2008/01/10-principles-of-effective-web-design/" caption="" %}
-
-{% embed url="https://www.toptal.com/designers/ui/principles-of-design" caption="" %}
-
-{% embed url="https://xd.adobe.com/ideas/principles/web-design/web-page-design/" caption="" %}
 
