@@ -12,7 +12,7 @@ Before starting the layout of the user interface or how a user will move through
 
 1. Tools/applications that do as close to what you are doing as possible
 2. Tools/applications in your field in general
-3. Tools/applications outside of genomics/biology/etc
+3. Tools/applications outside of genomics/biology/etc that conceptually do something similar, such as search, editors, etc.
 
 The first group will help you brainstorm ideas from what other people have done, and also see what improvements you can make on competitors in the field. 
 

@@ -22,11 +22,3 @@ Components of UX:
 
 \#user-centered-design Slack Channel on the UCSC GI slack.
 
-## Other resources
-
-How to measure success of your UX work: [https://disciullodesign.wordpress.com/2013/12/08/6-steps-for-measuring-success-on-ux-projects](https://disciullodesign.wordpress.com/2013/12/08/6-steps-for-measuring-success-on-ux-projects/)
-
-
-
-
-
