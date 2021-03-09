@@ -14,25 +14,27 @@ Sometimes we really are designing a tool for more than one type of user. In this
 
 ## Questions to consider
 
-Why do they need my tool? What is their short-term goal? What is their medium-term goal? What is their long-term goal?
+**Why do they need my tool?** What is their short-term goal? What is their medium-term goal? What is their long-term goal?
 
-What is the skillset of my users? Do they have experience with the command line? Do they prefer to use R or Python or something else? Do they use Linux or Mac or Windows?
+**What is the skillset of my users?** Do they have experience with the command line? Do they prefer to use R or Python or something else? Do they use Linux or Mac or Windows?
 
-What tools will feed into my tool? What do those outputs look like? What tools will take results from my tool and do further analysis? What do their input requirements look like?
+**What tools will feed into my tool?** What do those outputs look like? 
 
-What administrative privileges do my users have for the computer my tool will be used on? Will they be able to install the tool themselves or will they need IT to do it for them? Will they only be able to access certain web browsers or web browser versions? Will certain websites be blocked, either by an institution or by the country? 
+**What tools will take results from my tool and do further analysis?** What do their input requirements look like?
 
-What are the security requirements for my tool? Does it need to run in a secure environment? What are the security requirements for the data inputs and outputs? 
+**What administrative privileges do my users have for the computer my tool will be used on?** Will they be able to install the tool themselves or will they need IT to do it for them? Will they only be able to access certain web browsers or web browser versions? Will certain websites be blocked, either by an institution or by the country? 
 
-Will the user be running this tool on a shared computer or cluster? What requirements will that put on the tool?
+**What are the security requirements for my tool?** Does it need to run in a secure environment? What are the security requirements for the data inputs and outputs? 
 
-Will they be publish using the results from my tool? Are there any requirements for publishing? 
+**Will the user be running this tool on a shared computer or cluster?** What requirements will that put on the tool?
 
-Will they be sharing results to coworkers/PIs/etc? Who are they? What is the best way to share results with them?
+**Will they be publish using the results from my tool?** Are there any requirements for publishing? 
 
-When are the users going to use my tool? At the beginning or end of a project? How long will it take to run my tool?
+**Will they be sharing results to coworkers/PIs/etc?** Who are they? What is the best way to share results with them?
 
-Think about the user's social networks, broader career, professional goals, and personal goals. Will they tweet/post about your tool? Are they a far along in their career or just getting started? Will they teach about your tool? Is their home life such that they will need to easily leave and come back to your tool?
+**When are the users going to use my tool?** At the beginning or end of a project? How long will it take to run my tool?
+
+**Think about the user's social networks, broader career, professional goals, and personal goals.** Will they tweet/post about your tool? Are they a far along in their career or just getting started? Will they teach about your tool? Is their home life such that they will need to easily leave and come back to your tool?
 
 ## Brainstorming/talking with potential users
 

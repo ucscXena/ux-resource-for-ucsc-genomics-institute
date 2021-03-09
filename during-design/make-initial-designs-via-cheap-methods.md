@@ -18,11 +18,15 @@ There are two trade-offs in choosing a medium to make a design in. The first is 
 
 The second trade-off in choosing a design medium is how it is perceived by your users and hence, what kind of feedback they give you. If a user thinks that you have already put a lot of time into a design, they are unlikely to tell you that nothing about the design works for them and that you should start over. Users are more likely to give more honest feedback if the designs look less polished.
 
-Media for designs, listed from low to high fidelity:
+### Low fidelity: paper prototypes
 
 {% embed url="https://uxdesign.cc/how-to-do-paper-prototyping-719173215a7e" %}
 
+### Medium fidelity: Balsamiq
+
 {% embed url="https://balsamiq.com/" %}
+
+### High fidelity: Google Slides or Powerpoint
 
 {% embed url="https://hanno.co/journal/minimum-viable-prototyping/" %}
 

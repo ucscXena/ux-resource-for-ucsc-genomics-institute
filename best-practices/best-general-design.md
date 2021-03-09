@@ -8,7 +8,7 @@ Consistency isn't just about behavior, but it's also about language, labels, col
 
 {% embed url="https://uxdesign.cc/design-principle-consistency-6b0cf7e7339f" caption="" %}
 
-## Mental Models
+## Create a Consistent Mental Model
 
 What is a "mental model"? A mental model is a user's internal model of how they think your tool works and what they expect to do with your tool. This model is likely quite different from how your tool works behind-the-scenes. While designing your tool, it is important to keep your user's mental model in mind and keep to it as closely as possible, or otherwise make it clear what the model is for your application.
 
