@@ -6,7 +6,7 @@ description: Work in progress
 
 User Experience Design \(UX\), also called User Centered Design \(UCD\), is **design** that is based upon an **explicit understanding of users, tasks, and environments** and is **refined by user-centered evaluation**.
 
-Components of UX:
+## Components of UX
 
 * **Specify the context of use and other requirements:** Identify the people who will use the product, what they will use it for, and under what conditions they will use it. Identify any business requirements or user goals that must be met for the product to be successful.
 * **Create designs:** Build from a rough concept to a complete design.

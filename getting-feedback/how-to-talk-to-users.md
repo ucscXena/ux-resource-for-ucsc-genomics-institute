@@ -2,13 +2,14 @@
 description: How to talk to users to get the most out of them
 ---
 
-# How to talk to users directly
+# How to talk to users and show them your designs
 
 The most important things to remember when talking to users is:
 
 1. **They are happy to talk to you.** You have singled them out as someone important to listen to, and hence are generally flattered. Additionally, the tool you are building will ultimately help them do something they want to do, so they are motivated to help you. 
 2. **They will be cautious to not offend you.** They have empathy with the effort you are putting in to build the tool, and so will not want to outright say what they really think. This means that they may consciously or unconsciously lie to you to not hurt your feelings.
 3. **Their memory is biased**, as it is for all people. This means they don't remember things exactly as they happened. They may feel like they are always spending time doing a task, when really they don't spend that much time doing it. Or they may think they always do X, then Y, then Z, but in reality they sometimes switch the order. 
+4. **Be careful of asking them too many times.** Even though users are happy to talk to you, you want to make sure that they feel that their time is appreciated. Also, if they have already seen your design, their feedback may be less useful since they are now biased by their previous experience. How many times is too many times will depend on the user.
 
 ## Logistics 
 
@@ -22,6 +23,10 @@ It is very difficult to both talk to a user and to take notes on what they are s
 {% embed url="https://www.userzoom.com/interviews/what-are-leading-questions-in-ux/" %}
 
 3.  **Note the language and terminology they use** when talking about the data, tool, etc. Developers often have different words for data and concepts than the users of a tool. For instance, developers might call it metadata, while users call it clinical data. Note the terminology they use so that you can use it in your designs.
+
+## Offer them compensation?
+
+In general it is better in science to not offer compensation despite the fact that this is common practice in industry. Scientists are more likely to want to donate their time and will likely refuse compensation. It also makes them feel less like they are 'good people' for helping you out. 
 
 ## How to show them a design
 

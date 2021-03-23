@@ -8,9 +8,7 @@ Before beginning, it is important to spend some time thinking about the user and
 
 Below is a list of questions to help you start thinking about this.
 
-## The most important question
-
-### Who will use this tool?
+## The most important question: who will use this tool?
 
 And don't just say 'Everyone!' The more specific your answer is, the easier it will be for you to create a design that really works for them. 
 
