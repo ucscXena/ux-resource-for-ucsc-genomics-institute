@@ -11,6 +11,10 @@ It's good to keep these things in mind from the beginning as it means you can ho
 
 The two points above are just the tip of the iceberg in terms of accessibility and there are many more things you can do to make your web application as accessible as possible. Below are more resources where you can learn more.
 
+### Quick Start UCSC resource:
+
+{% embed url="https://www.ucop.edu/information-technology-services/\_files/word-pdf-accessibility-guide.pdf" %}
+
 ### General guidelines
 
 {% embed url="https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding\_WCAG" %}
