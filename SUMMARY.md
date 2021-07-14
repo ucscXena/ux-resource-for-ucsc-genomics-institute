@@ -15,7 +15,8 @@
 ## Getting feedback
 
 * [Who, when, why of feedback](getting-feedback/planning-feedback.md)
-* [How to talk to users and show them your designs](getting-feedback/how-to-talk-to-users.md)
+* [Step 1: Heuristic Evaluation](getting-feedback/step-1-heuristic-evaluation.md)
+* [Step 2: Talk to users and show them your designs](getting-feedback/how-to-talk-to-users.md)
 * [How to do surveys](getting-feedback/how-to-do-surveys.md)
 * [How to sort through feedback](getting-feedback/how-to-sort-through-feedback.md)
 

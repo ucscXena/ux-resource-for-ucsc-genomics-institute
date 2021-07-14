@@ -12,11 +12,13 @@ In virtually all cases, you are not the target user for your tool. Your target u
 
 ## Who should you run it by?
 
-Ideally you would run it by a user or potential user of your tool. You can get in contact with users by leveraging either a mailing list or poster session to get contact information for a potential user. You can get in contact with potential users by leveraging other groups at the Genomics Institute to see if they have access to users who might want to use your tool.
+Ideally you would run it by a user or potential user of your tool. You can get in contact with users by leveraging either a mailing list or poster session to get contact information for a potential user. You can also get in contact with potential users by leveraging other groups at the Genomics Institute to see if they have access to users who might want to use your tool.
 
 If you don't have access to users or potential users, you next best option is a coworker, ideally one who has as close to the same skillet that you are trying to target. 
 
 Typically, PIs, managers, etc are not the most helpful people to get feedback from when considering your design from the perspective of your users. They will have lots of interesting ideas, but since they are not your target user, they will just be guessing, same as you, as to what your users really want. 
+
+These rules are less important if you are doing a Heuristic Evaluation. In this case, anyone who has experience using web applications would be great.
 
 ## How many people should you run it by?
 
@@ -28,5 +30,5 @@ Industry rules is 3-5, but in practice, even one person will **significantly** h
 
 ## When should you get feedback
 
-Ideally early and often. Interestingly, you can often get the best feedback from users when your designs are the roughest \(paper and pencil, slides, etc\), because users feel more free to give frank feedback because they know you haven't invested so much time in it that you can't pivot to something else.
+Ideally early and often. Interestingly, you can often get the best feedback from users when your designs are the roughest \(paper and pencil, slides, etc\), because users feel more free to give frank feedback because they know you haven't invested so much time in it that you can't make big changes.
 

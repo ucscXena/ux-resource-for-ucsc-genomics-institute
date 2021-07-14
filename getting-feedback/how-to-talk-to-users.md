@@ -2,7 +2,7 @@
 description: How to talk to users to get the most out of them
 ---
 
-# How to talk to users and show them your designs
+# Step 2: Talk to users and show them your designs
 
 The most important things to remember when talking to users is:
 
@@ -26,7 +26,7 @@ It is very difficult to both talk to a user and to take notes on what they are s
 
 ## Offer them compensation?
 
-In general it is better in science to not offer compensation despite the fact that this is common practice in industry. Scientists are more likely to want to donate their time and will likely refuse compensation. It also makes them feel less like they are 'good people' for helping you out. 
+In general it is better in science to not offer compensation despite the fact that this is common practice in industry. Scientists are more likely to want to donate their time and will likely refuse compensation. Also, accepting compensation can make them feel less like they just are a 'good person' for helping you out. 
 
 ## How to show them a design
 
@@ -36,7 +36,7 @@ Showing users a design is one of the most fruitful exercises you can do. Watchin
 
 **As difficult as it might be, DO NOT TELL THEM WHAT TO DO**. Remember that you will not be alongside your future users to tell them how to accomplish a task. If they get stuck, the best thing you can do is to be quiet and say things like 'This is really helpful for me to watch you through this! I know it feels like you are doing something wrong but you aren't. You are helping me to understand how to design this better'.
 
-It will be very painful to just watch someone use the interface and not be able to help them. If they have been stuck for over 5 min or if it is one of the first tasks \(and hence if they don't make it through this they won't make it to any of the other testing\), you can suggest to look at a button or some small hint like that. Otherwise, refrain from helping them.
+It may be very painful to just watch someone use the interface and not be able to help them. If they have been stuck for over 2-3 min or if it is one of the first tasks \(and hence if they don't make it through this they won't make it to any of the other testing\), you can suggest to look at a button or some small hint like that. Otherwise, refrain from helping them.
 
 ## Don't take it personally
 
