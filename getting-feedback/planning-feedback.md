@@ -12,13 +12,13 @@ In virtually all cases, you are not the target user for your tool. Your target u
 
 ## Who should you run it by?
 
-Ideally you would run it by a user or potential user of your tool. You can get in contact with users by leveraging either a mailing list or poster session to get contact information for a potential user. You can also get in contact with potential users by leveraging other groups at the Genomics Institute to see if they have access to users who might want to use your tool.
+[For a Heuristic Evaluation](step-1-heuristic-evaluation.md), anyone who uses either the command line, if your tool is a command line tool, or uses the web, if your tool is a web tool will do.
+
+[For talking to your users](how-to-talk-to-users.md), ideally it would actually be a user or potential user of your tool. You can get in contact with users by leveraging either a mailing list or poster session to get contact information for a potential user. You can also get in contact with potential users by leveraging other groups at the Genomics Institute to see if they have access to users who might want to use your tool.
 
 If you don't have access to users or potential users, you next best option is a coworker, ideally one who has as close to the same skillet that you are trying to target. 
 
 Typically, PIs, managers, etc are not the most helpful people to get feedback from when considering your design from the perspective of your users. They will have lots of interesting ideas, but since they are not your target user, they will just be guessing, same as you, as to what your users really want. 
-
-These rules are less important if you are doing a Heuristic Evaluation. In this case, anyone who has experience using web applications would be great.
 
 ## How many people should you run it by?
 
