@@ -1,5 +1,5 @@
 ---
-description: Finding low-hanging usability issues
+description: Finding your biggest usability issues
 ---
 
 # Step 1: Heuristic Evaluation
